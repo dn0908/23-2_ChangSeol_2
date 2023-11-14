@@ -1,0 +1,13 @@
+<linkage2>
+	<program zoom="0.591716" xoffset="2" yoffset="-86" scalefactor="1.000000" units="Millimeters" backgroundtransparency="0.000000" backgroundscale="1.000000" xgrid="" ygrid=""/>
+	<connector id="0" selected="false" layer="16" x="-56.692913" y="37.795276" anchor="true" input="true" rpm="15.000000" color="16711680" usercolor="false"/>
+	<connector id="1" selected="true" layer="16" x="-56.692913" y="-340.157480" color="12632064" usercolor="false"/>
+	<Link id="2" selected="false" layer="16" linesize="1" shapetype="hull" color="32768" usercolor="false">
+		<connector id="0"/>
+		<connector id="1"/>
+	</Link>
+	<selected>
+		<connector id="1"/>
+	</selected>
+	<background></background>
+</linkage2>

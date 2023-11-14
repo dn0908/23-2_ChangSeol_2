@@ -1,0 +1,30 @@
+{
+	"app": "EDISON",
+	"type": "Sketch",
+	"fileVersion": "2.0",
+	"description": "Saved From M.Sketch v3.0",
+	"thickness": 3,
+	"holeSize": 4,
+	"linkWidth": 10,
+	"sketch": {
+		"plane": {
+			"name": "Plane0",
+			"translation": {
+				"x": "0.00",
+				"y": "0.00",
+				"z": "0.00"
+			},
+			"rotation": {
+				"x": "0.00",
+				"y": "0.00",
+				"z": "0.00"
+			}
+		},
+		"anchor": [],
+		"links": [],
+		"constraints": [],
+		"sliders": [],
+		"markers": [],
+		"motors": []
+	}
+}
